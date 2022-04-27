@@ -50,3 +50,9 @@ Notes about the course
 > Open-Sources licences. Create ecosystems that provide customers with options other than Google. **TensorFlow** use Machine Learning developed inside Google.
 > Interoperability at multiple layers of the stack. **Kubernetes & Google Kubernetes Engine** mix and match microservices running across differente clouds. *Google Stackdriver* lets customers monitor workloads across multiple cloud providers.
 
+## Resume
+![image](https://user-images.githubusercontent.com/12539100/165646416-4c3d9d6c-5970-46ad-a141-b7ba95e7fba6.png)
+
+![image](https://user-images.githubusercontent.com/12539100/165646475-1bc83100-ca7a-4209-9734-1bfa5dd42276.png)
+
+![image](https://user-images.githubusercontent.com/12539100/165646532-87677486-987f-4539-a363-f788c9ecb632.png)
