@@ -31,9 +31,22 @@ Notes about the course
 
 ## *GCP* is organized into regions and zones
 ![image](https://user-images.githubusercontent.com/12539100/165642712-f7293b1a-864f-4f42-9db2-c10b4c79e953.png)
-> **Regions** are independent geographic areas that consist of *zones* (Group of Countries).
+### Regions and zones
+> are independent geographic areas that consist of *zones* (Group of Countries).
 > **Zones** is a deployment area for GCP resources within a region.
 > Multiregion is The better way to protect against the loss of an entire region due to natural disaster, our customers should deploy apps across multiple zones in a region.
-> > *Google Compute Engine VM instance resides within a specific zone*
 
+### Zonal resources
+>If a zone becomes unavailable, all of the zonal resources in that zone are unavailable until service is restored.
+> > *Google Compute Engine VM instance resides within a specific zone*
+### Regional resources
+> Are deployed with  redundancy within a region . This gives them higher availability relative to zonal resources.
+### Multi-regional resources
+>A few GCP service are managed by Google to be redundant and distributed within a across regions. These services optimize availability, performance, and resource efficiency
+![image](https://user-images.githubusercontent.com/12539100/165644413-1af208d6-7520-4232-93c0-bf596ab45e4b.png)
+
+## Google gives customers the ability to run their apps elsewhere if Google becomes no longer the best provider for their needs.
+> Open APIs. compatible with open-source products. **Google Cloud Bigtable** uses Apache HBase interface, **Google Cloud Dataproc** offers open-sourcce big data environment Hadooop as a managed service.
+> Open-Sources licences. Create ecosystems that provide customers with options other than Google. **TensorFlow** use Machine Learning developed inside Google.
+> Interoperability at multiple layers of the stack. **Kubernetes & Google Kubernetes Engine** mix and match microservices running across differente clouds. *Google Stackdriver* lets customers monitor workloads across multiple cloud providers.
 
