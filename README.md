@@ -55,4 +55,23 @@ Notes about the course
 
 ![image](https://user-images.githubusercontent.com/12539100/165646475-1bc83100-ca7a-4209-9734-1bfa5dd42276.png)
 
-![image](https://user-images.githubusercontent.com/12539100/165646532-87677486-987f-4539-a363-f788c9ecb632.png)
+![image](https://user-images.githubusercontent.com/12539100/166128527-9af8e0eb-9c33-41c9-bc1b-4ca15aa4f06c.png)
+
+## Friendly Pricing for Customers
+![image](https://user-images.githubusercontent.com/12539100/166128320-8c73ef60-5091-430d-93ce-45557457aa8b.png)
+
+## Why choose GCP?
+- Enable developers to **build, test,** and **deploy** apps on Google's **highly secure, reliable**, and **scalable** infrastructure.
+
+## About the Security by layers
+1. Hardware Infraestructure: Hardware design an provenance; secure boot stack; premises security
+2. Service deployment:  Encryption of inter-service communication
+3. User Identity: Central identity service with support for U2F (Universal 2nd Factor)
+4. Storage services: Encryption at rest
+5. Internet Communication: Google Front End; designed-in Denial of Service protection
+6. OPerational Security: Intrusion detection systems; techniques to reduce insider risk; employee U2F use;  software development practices
+
+## Budgets and Billing 
+- Could create alerts based on your monthly consume or customized
+- Billing export let us to know a detailed analysis about a bigquery data or other resources over owr GCP
+- Can implement Rate Quota or Allocation Quota
